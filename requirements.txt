@@ -1,5 +1,8 @@
 streamlit
+tqdm
+joblib
 pandas
 nltk
 scikit-learn
-joblib
+scikeras
+tensorflow
