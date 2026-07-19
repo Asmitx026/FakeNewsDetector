@@ -1,7 +1,4 @@
 # Importing libraries
-from sklearn import set_config
-set_config(display='diagram')
-
 import streamlit as st
 from model_pred import evaluate_pred
 
